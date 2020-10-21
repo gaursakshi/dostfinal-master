@@ -10,3 +10,9 @@ Screenshot of the various screen are
   
 ## This is an Motivational video interface  for students which they can play when they feel stressed <h2> 
 ![ChatForum](/images/video.png)
+  
+## This is an Book Recommendation Screen for students  <h2> 
+![ChatForum](/images/bookrecom.png)
+  
+  
+  
