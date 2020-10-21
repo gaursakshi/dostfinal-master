@@ -6,4 +6,4 @@ To provide emotional and academic support to the students preparing forIIT-JEE a
 
 Screenshot of the various screen are
 1.Chat Forum for students
-![ChatForum](/images/image3.png)
+![ChatForum](/images/image3.jpg)
