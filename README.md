@@ -9,4 +9,4 @@ Screenshot of the various screen are
 ![ChatForum](/images/image3.jpg)
   
 ## This is an Motivational video interface  for students which they can play when they feel stressed <h2> 
-![ChatForum](/images/video.jpg)
+![ChatForum](/images/video.png)
